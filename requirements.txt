@@ -1,0 +1,9 @@
+python-dotenv
+requests           
+opencv-python        
+torch                
+ultralytics         
+numpy                
+shapely              
+asyncpg
+aioboto3
